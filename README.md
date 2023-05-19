@@ -36,5 +36,5 @@ My passion lies in utilizing technology to find practical solutions and generate
   <a href="https://www.linkedin.com/in/reemsrashid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
   
   <a href="https://www.polywork.com/reem_rashid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/polywork.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.stackoverflow.com/users/rsrashid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+  
+  <a href="https://www.stackoverflow.com/users/rsrashid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
