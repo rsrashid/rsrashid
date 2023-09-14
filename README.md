@@ -9,7 +9,7 @@ My passion lies in utilizing technology to find practical solutions and generate
 *   🌍  I'm based in Edmonton, AB
 *   🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/reemsrashid/)
 *   ✉️  You can contact me at [reemsrashid8@gmail.com](mailto:reemsrashid8@gmail.com)
-*   🚀  I'm currently working on [creating Personal Portfolio Website](http://github.com/rsrashid/PersonalPortfolioWebsite)
+*   🚀  I'm currently working on building a new platform for students 
 *   🧠  I'm learning React, Vue, and Java
 *   🤝  I'm open to collaborating on any project
 *   ⚡  Although I began coding only two years ago, I feel as though I've been honing my skills for much longer. I have discovered a genuine passion for programming and thoroughly enjoy the challenges and problem-solving opportunities it presents.### Skills 
